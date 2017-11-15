@@ -34,4 +34,8 @@ font-weight: bold;
 
 p {  color: black;
 }
-.cost {color: purple}
+.cost {
+  color: blue
+  font-family: Helvetica;
+  font-weight: bold;
+}
